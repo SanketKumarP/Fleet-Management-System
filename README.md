@@ -90,10 +90,3 @@ python fmsProject.py
 - **Location-based vehicle usage frequency**
 
 ---
-
-## 👥 Contributors
-
-- Sanketkumar Patel  
-- Yashwanth Reddy Panga  
-- Priyanka Karan  
-- Aswin Reddy Manthena
